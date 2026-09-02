@@ -60,4 +60,4 @@ Sistem ini memiliki dua antarmuka utama:
 
 1. **Clone repositori ini:**
    ```bash
-   git clone [https://github.com/edi-uxz/dpr_personal.git](https://github.com/edi-uxz/dpr_personal.git)
+   git clone [https://github.com/edi-uxz/aspirasi-dpr-personal]
